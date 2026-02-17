@@ -1,0 +1,78 @@
+              MAMMOGRAPHIC IMAGE ANALYSIS SOCIETY
+                  MiniMammographic Database
+
+
+
+Thank you for downloading the MIAS MiniMammographic Database. By
+popular request the original MIAS Database (digitised at 50 micron
+pixel edge) has been reduced to 200 micron pixel edge and 
+clipped/padded so that every image is 1024 pixels x 1024 pixels.
+
+Feel free to use the database in any of your scientific research, 
+but please read the licence agreement first (Licence.txt).
+
+If you have have any questions/comments about the data or would like 
+information on how to get the original MIAS Database please contact 
+me at the address below. You will be put on a mailing list for further 
+information about any upgrades of this database. See also our WWW-page 
+at http://skye.icr.ac.uk/miasdb/miasdb.html for updated information.
+
+John Suckling
+Department of Physics
+Royal Marsden Hospital
+Fulham Road, London.
+SW3 6JJ, UK.
+
+Email: j.suckling@rmh_lon.icr.ac.uk
+                       
+19 January 1995                          
+=================================================================
+
+CREDITS:
+
+Organiser: J Suckling
+
+Truth-Data: C R M Boggis and I Hutt
+
+Co-Workers: S Astley, D Betal, N Cerneaz, D R Dance, S-L Kok, J Parker, 
+            I Ricketts, J Savage, E Stamatakis and P Taylor.
+ 
+Special Thanks: N Karrsemeijer.
+
+Pilot European Image Processing Archive (PEIPA) Orgainser: A Clark. 
+ 
+=================================================================
+
+REFERENCE:
+
+J Suckling et al (1994) "The Mammographic Image Analysis Society Digital
+Mammogram Database" Exerpta Medica. International Congress Series
+1069 pp375-378.
+
+=================================================================
+
+INFORMATION:
+
+This file lists the films in the MIAS database and provides     
+appropriate details as follows:
+
+1st column: MIAS database reference number.
+
+2nd column: Character of background tissue: 
+                F - Fatty 
+                G - Fatty-glandular
+                D - Dense-glandular
+
+3rd column: Class of abnormality present:
+                CALC - Calcification
+                CIRC - Well-defined/circumscribed masses
+                SPIC - Spiculated masses
+                MISC - Other, ill-defined masses
+                ARCH - Architectural distortion
+                ASYM - Asymmetry
+                NORM - Normal
+
+4th column: Severity of abnormality;
+                B - Benign
+                M - Malignant
+                
