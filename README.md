@@ -74,18 +74,14 @@ See `requirements.txt` in the PyRadiomics folder for complete dependency specifi
 
 ## Installation & Setup
 
-1. **Clone or extract the project**:
-   ```bash
-   cd "d:\EGBM\3º\2n Trimestre\Análisis Imagen Biomédica\Group project"
-   ```
 
-2. **Install PyRadiomics**:
+1. **Install PyRadiomics**:
    ```bash
    cd pyradiomics-master
    pip install -e .
    ```
 
-3. **Install additional dependencies**:
+2. **Install additional dependencies**:
    ```bash
    pip install numpy pandas pillow scikit-learn
    ```
